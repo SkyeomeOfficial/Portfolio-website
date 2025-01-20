@@ -52,7 +52,7 @@ export default function Homescreen() {
       <div className="relative flex items-center justify-center">
         <div className="relative w-[200px] sm:w-[250px] md:w-[300px] lg:w-[350px] h-[200px] sm:h-[250px] md:h-[300px] lg:h-[350px] rounded-full flex items-center justify-center shadow-2xl">
           <Image
-            src="/image2.jpeg"
+            src="/image2.jpg"
             alt="Logo"
             width={340}
             height={340}
